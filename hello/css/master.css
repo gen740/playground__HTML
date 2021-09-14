@@ -1,0 +1,16 @@
+* {
+    margin:100;
+    padding:100;
+    margin:0;
+    padding:0;
+}
+
+#main-title{
+    font-size: 100px;
+    margin:100;
+    padding:100;
+    text-align: center;
+    color: #ffffff;
+    background: #000000;
+    border: 50px solid #ff0000;
+}
